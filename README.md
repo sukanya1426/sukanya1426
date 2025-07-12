@@ -32,11 +32,11 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dhrubo23_19/)
   
-<p align="center">
+
   <a href="https://leetcode.com/u/suk26/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/suk26?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
   </a>
-</p>
+
 
 ---
 
