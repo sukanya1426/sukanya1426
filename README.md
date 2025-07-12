@@ -28,17 +28,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🧠 Problem Solving Skills:
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dhrubo23_19/)
-  
-
-  <a href="https://leetcode.com/u/suk26/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/suk26?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-  </a>
-
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sukanya1426&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
