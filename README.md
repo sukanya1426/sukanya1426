@@ -30,9 +30,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sukanya1426&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sukanya1426&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanya1426&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sukanya1426&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sukanya1426&theme=dark&hide_border=false&v=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanya1426&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sukanya1426&icon=0&color=0)](https://visitcount.itsvg.in)
